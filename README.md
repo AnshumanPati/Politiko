@@ -22,10 +22,12 @@ Execute each code block (cell by cell) in code.ipynb notebook.
 
 ## DATA STRUCTURES USED:
 ### Document_tokens_list
-Contains lists enclosed within a list It will contain the stemmed tokens from each file in the corpus as individual lists. All are appended to make a list. Example:
+Contains lists enclosed within a list It will contain the stemmed tokens from each file in the corpus as individual lists. All are appended to make a list.<br/> 
+Example:<br/>
 [[‘i’,’am’,’good’],[‘isro’,’nasa’],[‘india’,’is’,’best’]]
 ### Vocabulary
-Will contain a dictionary of all the unique words in the corpus. Example:
+Will contain a dictionary of all the unique words in the corpus.<br/> 
+Example:<br/>
 {‘i’: 1, ‘am’:2, ‘good’:3, ‘isro’:4, ‘nasa’ :5, ‘india’:6 , ‘is’ :7, ‘best’:8]
 
 ## Members
