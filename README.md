@@ -1,0 +1,2 @@
+# Politiko-Search-Engine
+ A tf-idf based search engine for searching from about 75 speeches of Prime Minister Narendra Modi. The main purpose of this project is to understand how vector space based retrieval models work. The search engine caters to the need of journalists and politicians to seek the Prime Minister's speeches and to validate if the issues have already been addressed by the Prime Minister or not.
