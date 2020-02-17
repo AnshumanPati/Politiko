@@ -14,11 +14,11 @@ Execute each code block (cell by cell) in code.ipynb notebook.
 ``$ sudo python3 code.py``
 
 ## Installing nltk
-``$ pip3 install nltk``
-``$ python3``
-``>>> import nltk``
-``>>> nltk.download()``
-	``Packages: all``
+``$ pip3 install nltk``<br/>
+``$ python3``<br/>
+``>>> import nltk``<br/>
+``>>> nltk.download()``<br/>
+	``Packages: all``<br/>
 
 ## DATA STRUCTURES USED:
 ### Document_tokens_list
@@ -29,9 +29,9 @@ Will contain a dictionary of all the unique words in the corpus. Example:
 {‘i’: 1, ‘am’:2, ‘good’:3, ‘isro’:4, ‘nasa’ :5, ‘india’:6 , ‘is’ :7, ‘best’:8]
 
 ## Members
-Anshuman Pati (2016B4A70470H)
-Pratik (2016B4A70549H)
-Piyush Jain (2016A3PS0885H)
+Anshuman Pati (2016B4A70470H)<br/>
+Pratik (2016B4A70549H)<br/>
+Piyush Jain (2016A3PS0885H)<br/>
 
 
  
