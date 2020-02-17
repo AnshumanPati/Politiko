@@ -9,8 +9,8 @@ Created a profession specific information retrieval system pertaining to profess
 Given a corpus from the Prime Minister’s speeches and a search query, we are meant to extract the speeches referencing several issues addressed in the query. We are also to indicate if a particular issue has never been addressed by the Prime Minister before.
 
 ## Order of execution
-Run Jupyter notebook. 
-Execute each code block (cell by cell) in code.ipynb notebook.
+Run Jupyter notebook.<br/><br/> 
+Execute each code block (cell by cell) in code.ipynb notebook.<br/>
 ``$ sudo python3 code.py``
 
 ## Installing nltk
